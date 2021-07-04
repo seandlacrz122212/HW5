@@ -1,0 +1,5 @@
+		
+	* `for` - 
+	* `&&`, - AND will return both expressions
+    `||`, - OR - will return true if one or both of the expressions is true
+     `!` NOT - will return the opposite
